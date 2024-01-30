@@ -1,4 +1,4 @@
-# PROYECTO-Equipo2
+# PROYECTO-Grupo 9, Equipo 2.
 Control de distancia en pantallas.
 
 Participantes:
