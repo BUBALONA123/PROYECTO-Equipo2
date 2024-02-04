@@ -1,4 +1,4 @@
-
+>***(ESTO ES UN BORRADOR, SI VAS AGREGAR O CAMBIAR UN DATO ¡PUEDES EDITAR ESTE DOCUMENTO!)***
 <h1>Control de distancia en pantallas</h1>
 
 **Grupo 9/Equipo 2**
