@@ -1,5 +1,5 @@
 > PROYECTO Samsung/Grupo 9, Equipo 2.
-# Control de Distancia en Pantallas.
+# Dispositivo de Control de Distancia en Pantallas.
 
 Participantes:
 + Gutierrez Alfaro Karla Estefanía
